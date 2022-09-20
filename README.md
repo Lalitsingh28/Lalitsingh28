@@ -23,8 +23,6 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 
-## Resume
-- <a href='https://drive.google.com/file/d/1sZqfVl9b4OTsn4eAIkIiOpPtdkDHUZ63/view?usp=sharing'> Download </a>
 
 ## Interests 
 - Playing Cricket
@@ -32,6 +30,9 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 ## 📫 How to reach me: 
 - Email:- Lalit4283@gmail.com 
 - Mobile:- +91 7689917179
+
+## Resume
+- <a href='https://drive.google.com/file/d/1sZqfVl9b4OTsn4eAIkIiOpPtdkDHUZ63/view?usp=sharing'> Download </a>
 
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Lalitsingh28)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/lalit-singh-ba6446233/)    [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)](lalitsingh28.github.io)
 
