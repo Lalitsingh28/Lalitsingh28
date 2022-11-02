@@ -9,7 +9,7 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 
 ## Languages and Tools: 🛠️
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,git,nodejs,github,js,mysql,html,css,aws&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,git,nodejs,github,js,mysql,html,css,aws,postman&theme=light)](https://skills.thijs.gg)
 
 
 ## Interests 
