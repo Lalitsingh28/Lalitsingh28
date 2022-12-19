@@ -11,6 +11,7 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,git,nodejs,github,js,mysql,html,css,aws&theme=light)](https://skills.thijs.gg)
 
+
 ## Interests 
 - Playing Cricket
 
