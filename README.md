@@ -30,7 +30,7 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 
 <br/>
 
-<a href="https://github.com/Lalitsingh28/github-readme-activity-graph"><img alt="Lalitsingh28's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lalitsingh28&bg_color=0D1111&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Lalitsingh28/github-readme-activity-graph/commits?author=fishmandev" title="Documentation">📖</a>
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/Lalitsingh28)  
