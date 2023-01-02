@@ -30,7 +30,6 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 
 <br/>
 
-<a href="https://github.com/Lalitsingh28/github-readme-activity-graph/commits?author=fishmandev" title="Documentation">📖</a>
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/Lalitsingh28)  
