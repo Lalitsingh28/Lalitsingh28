@@ -21,7 +21,6 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 
 ## Resume
 - <a href='https://drive.google.com/file/d/1sZqfVl9b4OTsn4eAIkIiOpPtdkDHUZ63/view?usp=sharing'> Download </a>
-
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Lalitsingh28)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/lalit-singh-ba6446233/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalitsingh28&show_icons=true)  
@@ -31,5 +30,4 @@ Aspiring Full Stack Developer who writes production-ready code using JavaScript,
 <br/>
 
 <br/>
-
 ![Profile views](https://gpvc.arturio.dev/Lalitsingh28)  
