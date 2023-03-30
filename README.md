@@ -4,7 +4,7 @@
 
 ## I am a Full-Stack Web Developer
 
-Aspiring Full Stack Developer who writes production-ready code using JavaScript, HTML, and CSS for the frontend and Java, MySQL for the backend to build single-page applications.
+Aspiring Full Stack Developer who writes production-ready code using JavaScript, HTML, and CSS for the frontend and Java, Spring, Hibernate and MySQL for the backend to build single-page applications.
 
 ## Languages and Tools: 🛠️
 
