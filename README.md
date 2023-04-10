@@ -8,7 +8,7 @@ Aspiring Full Stack Developer who writes production-ready code using HTML, CSS, 
 
 ## Languages and Tools: 🛠️
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,bootstrap,tailwindcss,java,nextjs,spring,hibernate,mysql,git,aws&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,bootstrap,tailwindcss,java,nextjs,spring,hibernate,mysql,github&theme=light)](https://skills.thijs.gg)
 
 
 ## Interests 
