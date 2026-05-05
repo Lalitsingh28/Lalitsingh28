@@ -9,8 +9,6 @@ I am a **Full Stack Developer** with over 2 years of professional experience in 
 **Databases:** MongoDB, MySQL.  
 **Enterprise Tools:** Git/GitHub, VS Code, IntelliJ IDEA, Adobe Experience Manager (AEM), Marketo.
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nextjs,java,spring,hibernate,nodejs,expressjs,mongodb,mysql,github&theme=light)](https://skills.thijs.gg)
-
 ### 🚀 Professional Highlights
 - **Architecture:** Translated complex business requirements into scalable React.js components.
 - **Optimization:** Improved application load times by streamlining RESTful API consumption.
