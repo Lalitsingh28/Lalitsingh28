@@ -1,10 +1,10 @@
 ## Hi there 👋, I am Lalit Singh
 
-I am a **Full Stack Developer** with over 2 years of professional experience in building scalable, user-driven software solutions. Currently, I specialize in architecting high-performance frontend components and optimizing complex backend data flows.
+I am a **Full Stack Developer** with over 2+ years of professional experience in building scalable, user-driven software solutions. Currently, I specialize in architecting high-performance frontend components and optimizing complex backend data flows.
 
 ### 🛠️ Technical Toolkit
 
-**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3.  
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Redux, Material UI.  
 **Backend:** Node.js, Express.js, Java, Spring Boot, Hibernate, RESTful APIs.  
 **Databases:** MongoDB, MySQL.  
 **Enterprise Tools:** Git/GitHub, VS Code, IntelliJ IDEA, Adobe Experience Manager (AEM), Marketo.
