@@ -4,7 +4,7 @@ I am a **Full Stack Developer** with over 2+ years of professional experience in
 
 ### 🛠️ Technical Toolkit
 
-**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Redux, Material UI, Tailwind CSS.  
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Redux toolkit, Material UI, Tailwind CSS.  
 **Backend:** Node.js, Express.js, Java, Spring Boot, Hibernate, RESTful APIs.  
 **Databases:** MongoDB, MySQL.  
 **Enterprise Tools:** Git/GitHub, VS Code, IntelliJ IDEA, Adobe Experience Manager (AEM), Marketo.
